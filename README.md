@@ -1,2 +1,2 @@
 # AndroidSync
-An Android Debug Bridge script that syncs music and photos, similar to syncing with Finder but for Android Users
+An ADB script that syncs music and photos between MacOS and Android devices
